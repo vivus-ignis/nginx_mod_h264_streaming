@@ -1,0 +1,1 @@
+* [1.12.2012] applied patch 'http://www.freebsd.org/cgi/cvsweb.cgi/ports/www/nginx-devel/files/extra-patch-ngx_http_streaming_module.c?rev=1.1;content-type=text/plain'; compiles for nginx 1.2.3 (from openresty bundle)
